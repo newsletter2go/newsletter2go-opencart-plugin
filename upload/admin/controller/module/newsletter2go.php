@@ -2,8 +2,8 @@
 
 class ControllerModuleNewsletter2Go extends Controller
 {
-    const N2GO_INTEGRATION_URL = 'https://ui-staging.newsletter2go.com/integrations/connect/OPC/';
-    private $version = '4.0.00';
+    const N2GO_INTEGRATION_URL = 'https://ui.newsletter2go.com/integrations/connect/OPC/';
+    private $version = '4.0.01';
 
     public function index()
     {
